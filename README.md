@@ -34,9 +34,9 @@ python calculate_metrics.py
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{fairness_clip_xray_2025,
+@article{sun2025fairness,
   title={Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification},
-  author={Your Name and Co-authors},
+  author={Sun, Xiangyu and Zou, Xiaoguang and Wu, Yuanquan and Wang, Guotai and Zhang, Shaoting},
   journal={arXiv preprint arXiv:2501.19086},
   year={2025}
 }
