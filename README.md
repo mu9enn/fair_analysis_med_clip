@@ -7,7 +7,7 @@ This repository contains the implementation for the ISBI 2025 paper *"Fairness A
 ### 1. Create the Environment
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate base_clip
 
 # Install CLIP and MedCLIP
