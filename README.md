@@ -1,6 +1,6 @@
 # Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification
 
-This repository contains the implementation for the ISBI 2025 paper *"Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification"* ([arXiv:2501.19086](https://arxiv.org/abs/2501.19086)). The project evaluates the fairness and performance of CLIP-based foundation models (CLIP, MedCLIP, and BiomedCLIP) on X-ray image classification tasks. We implement three fine-tuning approaches: **Linear Probe**, **MLP**, and **LoRA** (Low-Rank Adaptation).
+This repository contains the implementation for the ISBI 2025 paper *"Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification"* ([arXiv:2501.19086](https://arxiv.org/abs/2501.19086)). The project evaluates the fairness and performance of CLIP-based foundation models (CLIP, MedCLIP, and BiomedCLIP) on X-ray image classification tasks. We implement three fine-tuning approaches: **Linear Prob**, **MLP**, and **LoRA** (Low-Rank Adaptation).
 
 ## Setup Instructions
 
